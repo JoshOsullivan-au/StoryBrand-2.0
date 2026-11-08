@@ -1,0 +1,25 @@
+{
+  "name": "sb7-brandscript",
+  "owner": {
+    "name": "Josh O'Sullivan",
+    "email": "mail@joshosullivan.ai"
+  },
+  "metadata": {
+    "description": "Single-plugin marketplace for sb7-brandscript.",
+    "version": "0.3.0"
+  },
+  "plugins": [
+    {
+      "name": "sb7-brandscript",
+      "source": "./",
+      "description": "Donald Miller's SB7 messaging framework (Building a StoryBrand 2017 and 2.0) as a working sequence: a checked BrandScript with a controlling idea, then the messaging and marketing campaign.",
+      "version": "0.3.0",
+      "author": {
+        "name": "Josh O'Sullivan",
+        "email": "mail@joshosullivan.ai"
+      },
+      "category": "marketing",
+      "keywords": ["storybrand", "sb7", "brandscript", "messaging", "marketing"]
+    }
+  ]
+}
