@@ -91,4 +91,4 @@ Treat the BrandScript as a rough draft. 2.0 says the most common fault is sound 
 - Stakes are credible and proportionate. They do not shame the customer, and conditional outcomes are not stated as certain.
 - The identity "from" line describes a starting point without demeaning it.
 - Agreement plan promises match real policy and delivery capability, with their real terms.
-- Client deliverables follow the Praxis voice. Compose with `praxis-brand-voice` when that plugin is installed.
+- Client deliverables follow the house voice of the business. Compose with a brand voice plugin when one is installed.

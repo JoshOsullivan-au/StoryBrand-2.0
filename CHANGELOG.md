@@ -2,7 +2,7 @@
 
 ## [0.3.0] - 08/11/2026
 
-Adds tools from an independent StoryBrand 2.0 implementation workbook supplied by Praxis. The workbook is an original template, not book text. Every addition is labelled, and book rules win where the two differ.
+Adds tools from an independent StoryBrand 2.0 implementation workbook. The workbook is an original template, not book text. Every addition is labelled, and book rules win where the two differ.
 
 ### Added
 - `skills/brandscript/assets/implementation-workbook.md`: the blank workshop workbook, in Australian spelling, with a field map to the store and the book counts restored.

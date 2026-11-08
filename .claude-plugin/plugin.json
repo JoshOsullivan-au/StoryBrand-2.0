@@ -3,8 +3,7 @@
   "version": "0.3.0",
   "description": "Donald Miller's SB7 messaging framework (Building a StoryBrand, 2017, and Building a StoryBrand 2.0, 2025) as a working sequence. Builds a BrandScript one decision per section (character, problem, guide, plan, call to action, failure, success, identity, controlling idea), checks it with a deterministic rule checker, prints a client worksheet and combined narrative, then runs the 2.0 messaging and marketing campaign: sound-bite testing, one-liner, eight-section landing page, lead generator, email or text drip, transformation stories and referral system. Adds workshop, approval, safeguard and launch-tracking tools from an independent implementation workbook, plus non-book scaffolds for ads, social posts and sales conversations. Includes a grunt-test audit, a read-only auditor agent and a first-edition internal team BrandScript.",
   "author": {
-    "name": "Josh O'Sullivan / Praxis Partners",
-    "email": "mail@joshosullivan.ai"
+    "name": "StoryBrand-2.0 contributors"
   },
   "homepage": "https://github.com/JoshOsullivan-au/StoryBrand-2.0",
   "repository": "https://github.com/JoshOsullivan-au/StoryBrand-2.0",

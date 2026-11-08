@@ -2,7 +2,7 @@
 
 Blank workshop workbook for one audience and one offer. Duplicate it for each extra market, product or campaign.
 
-**Provenance.** Adapted from an independent StoryBrand 2.0 implementation workbook supplied by Praxis (08/11/2026). That workbook is an original template, not text from either book. Its prompts, tables and checklists are its own. This copy drops its web links and uses Australian spelling.
+**Provenance.** Adapted from an independent StoryBrand 2.0 implementation workbook (08/11/2026). That workbook is an original template, not text from either book. Its prompts, tables and checklists are its own. This copy drops its web links and uses Australian spelling.
 
 **Where the books win.** The workbook marks some counts as optional. The plugin keeps the book rules: a process plan of 3 to 6 steps, at least three failure items, one desire, one villain, one controlling idea, and three nurture messages to one offer message. `brandscript.py check` enforces the hard ones.
 

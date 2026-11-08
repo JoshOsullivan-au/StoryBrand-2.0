@@ -4,7 +4,7 @@ Donald Miller's SB7 messaging framework as a working sequence for Claude Code. S
 
 The customer is the hero. The brand is the guide. Every line of copy comes from one stored, checked BrandScript, and every BrandScript has one controlling idea.
 
-A third source adds workshop and launch tools: an independent StoryBrand 2.0 implementation workbook supplied by Praxis. It is an original template, not book text. The plugin labels every piece it takes from the workbook, and keeps the book rule where the two differ.
+A third source adds workshop and launch tools: an independent StoryBrand 2.0 implementation workbook. It is an original template, not book text. The plugin labels every piece it takes from the workbook, and keeps the book rule where the two differ.
 
 The plugin paraphrases the method and cites chapters. It does not reproduce either book. "StoryBrand" is a trademark of StoryBrand. This plugin is not affiliated with or endorsed by StoryBrand or Donald Miller.
 
