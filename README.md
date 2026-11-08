@@ -99,7 +99,7 @@ uv run --python 3.12 --with mypy mypy --strict --cache-dir=/dev/null scripts/bra
 This repo is its own one-plugin marketplace. In Claude Code:
 
 ```
-/plugin marketplace add JoshOsullivan-au/sb7-brandscript
+/plugin marketplace add JoshOsullivan-au/StoryBrand-2.0
 /plugin install sb7-brandscript@sb7-brandscript
 ```
 
